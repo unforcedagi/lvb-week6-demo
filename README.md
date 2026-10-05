@@ -6,7 +6,8 @@ for Week 6 of *Learn, Vibe, Build* (CU Boulder ATLS 4519).
 Nothing here is real: the event, the people and the address are made up.
 
 - `index.html`, `style.css`: the site (plain HTML and CSS, no build step)
-- `docs/`: notes about the project
+- `docs/event-facts.md`: the event details
 
-**On purpose, this project has no `AGENTS.md` yet.** In class we write one live and
-watch the agent's answers change.
+**On purpose, this project has no `AGENTS.md` yet.** Who the site is for, how it should
+sound and what "done" means live only in the organisers' heads. In class we write them
+down in AGENTS.md and watch the agent's answers change.
