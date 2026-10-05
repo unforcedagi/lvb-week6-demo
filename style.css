@@ -1,0 +1,11 @@
+body {
+  font-family: Georgia, serif;
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1rem;
+  color: #1d2a1f;
+  background: #f6f3ea;
+}
+header { border-bottom: 3px solid #4f7a3a; margin-bottom: 1rem; }
+h1 { font-size: 2.2rem; margin: 0.5rem 0; }
+h2 { color: #4f7a3a; }
